@@ -20,21 +20,19 @@
                 <div class="row justify-content-center align-items-center">
                     <div class="col-lg-7 text-center pt-lg">
                         <img src="img/IMMUNOBLOCK-min.png" style="width: 350px;" class="img-fluid">
-                        <p class="lead text-white mt-4 mb-5">Accelerating Patient Centric Outcomes in Immune Disease. </p>
+                        <p class="lead text-white mt-4 mb-5">Accelerating Patient Outcomes in Immune Research. </p>
                         <div class="btn-wrapper">
                             <base-button tag="a"
                                          href="https://demos.creative-tim.com/vue-argon-design-system/documentation"
                                          class="mb-3 mb-sm-0"
-                                         type="info"
-                                         icon="fa fa-code">
-                                Researchers
+                                         type="primary">
+                                For Researchers
                             </base-button>
                             <base-button tag="a"
                                          href="https://www.creative-tim.com/product/vue-argon-design-system"
                                          class="mb-3 mb-sm-0"
-                                         type="warning"
-                                         icon="fa fa-code">
-                                Participants
+                                         type="white">
+                                For Participants
                             </base-button>
                         </div>
                     </div>
@@ -52,10 +50,15 @@
                             <img src="img/Imblock Grey Logo.png" class="ml-3" style="height: 30px;">
                         </a>-->
                     </div>
-                </div>-->
+                </div>
             </div>
         </div>
+
     </section>
+
+
+
+
 </template>
 <script>
 export default {};

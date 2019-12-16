@@ -11,9 +11,8 @@
         <div class="container py-0 pb-lg">
             <div class="row justify-content-between align-items-center">
                 <div class="col-lg-5 mb-5 mb-lg-0">
-                    <h1 class="text-white font-weight-light">Bootstrap carousel</h1>
-                    <p class="lead text-white mt-4">Argon Design System comes with four pre-built pages to help you get
-                        started faster. You can change the text and images and you're good to go.</p>
+                    <h1 class="text-white font-weight-light">Introduction for Researchers</h1>
+                    <p class="lead text-white mt-4">This platform will help match patients with trials.</p>
                     <a href="https://demos.creative-tim.com/argon-design-system/docs/components/alerts.html"
                        class="btn btn-white mt-4">See all components</a>
                 </div>
