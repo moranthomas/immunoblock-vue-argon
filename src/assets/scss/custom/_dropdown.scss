@@ -27,7 +27,7 @@
     font-size: .625rem;
     text-transform: uppercase;
     font-weight: 700;
-} 
+}
 
 
 // Inverse dropdown menu
@@ -64,7 +64,7 @@
         }
 
         p {
-            color: $gray-600;
+            color: $gray-800;
         }
         &:hover {
             .heading, p {
@@ -81,8 +81,13 @@
     border: $border-radius-lg;
 }
 
-.dropdown-menu-lg {
+.dropdown-menu-med {
     min-width: 260px;
+    border-radius: $border-radius-lg;
+}
+
+.dropdown-menu-lg {
+    min-width: 350px;
     border-radius: $border-radius-lg;
 }
 

@@ -28,7 +28,7 @@
                             <div class="icon icon-shape bg-gradient-primary rounded-circle text-white"> </div>
                             <div class="media-body ml-3">
                                 <h6 class="heading text-primary mb-md-1">What is ImmunoBlock?</h6>
-                                <p class="description d-none d-md-inline-block mb-0">ImmunoBlock is the world's first fully secure health data sharing platform.</p>
+                                <p class="description d-none d-md-inline-block mb-0">ImmunoBlock is the world's first fully secure health data sharing platform</p>
                             </div>
                         </a>
                         <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/"
@@ -44,15 +44,15 @@
                             <div class="icon icon-shape bg-gradient-info rounded-circle text-white"></div>
                             <div class="media-body ml-3">
                                 <h5 class="heading text-primary mb-md-1">Consent Management Platform</h5>
-                                <p class="description d-none d-md-inline-block mb-0">Using our platform you own your health data and share it only  with who you decide.</p>
+                                <p class="description d-none d-md-inline-block mb-0">Using our platform you own your health data and share it only  with who you decide</p>
                             </div>
                         </a>
                         <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-success rounded-circle text-white"></div>
                             <div class="media-body ml-3">
-                                <h5 class="heading text-dark mb-md-1">Targeted Marketplace</h5>
-                                <p class="description d-none d-md-inline-block mb-0">Dedicated portals for Patients, Researchers, Providers and Advocates .</p>
+                                <h5 class="heading text-success mb-md-1">Targeted Marketplace</h5>
+                                <p class="description d-none d-md-inline-block mb-0">Dedicated portals for Patients, Researchers, Providers and Advocates</p>
                             </div>
                         </a>
                     </div>
@@ -69,7 +69,7 @@
                             <div class="media-body ml-3">
                                 <!--<h6 class="heading text-primary mb-md-1">People have limited access to their own data.</h6>
                                 <p class="description d-none d-md-inline-block mb-0">People have limited access to their own data.</p>-->
-                                <p class="text-dark">People have limited access to their own data.</p>
+                                <p class="text-dark">People have limited access to their health data</p>
                             </div>
                         </a>
                         <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/"
@@ -96,21 +96,114 @@
                             <div class="media-body ml-3">
                                 <!--<h5 class="heading text-dark mb-md-1">Autoimmune Diseases are an epidemic</h5>-->
                                 <!--<p class="description d-none d-md-inline-block mb-0">Autoimmunity is now one of the most common disease categories, ahead of cancer and heart disease</p>-->
-                                <p class="text-dark">Autoimmune Disease is an Epidemic.</p>
+                                <p class="text-dark">Autoimmune Disease is an Epidemic</p>
                             </div>
                         </a>
                     </div>
                 </base-dropdown>
 
-                 <base-dropdown tag="li" class="nav-item">
+                <base-dropdown class="nav-item" menu-classes="dropdown-menu-lg">
+                    <a slot="title" href="#" class="nav-link" data-toggle="dropdown" role="button">
+                        <i class="ni ni-ui-04 d-lg-none"></i>
+                        <span class="nav-link-inner--text">Our Solutions</span>
+                    </a>
+                    <div class="dropdown-menu-inner">
+                        <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/"
+                           class="media d-flex align-items-center">
+                            <div class="icon icon-shape bg-gradient-primary rounded-circle text-white"> </div>
+                            <div class="media-body ml-3">
+                                <!--<h6 class="heading text-primary mb-md-1">People have limited access to their own data.</h6>
+                                <p class="description d-none d-md-inline-block mb-0">People have limited access to their own data.</p>-->
+                                <p class="text-dark">Health Wallet</p>
+                            </div>
+                        </a>
+                        <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/"
+                           class="media d-flex align-items-center">
+                            <div class="icon icon-shape bg-gradient-warning rounded-circle text-white"></div>
+                            <div class="media-body ml-3">
+                                <!--<h5 class="heading text-warning mb-md-1">Health data lives in silos</h5>-->
+                                <!--<p class="description d-none d-md-inline-block mb-0">Health data lives in silos, with little or no integration to other data sources.</p>-->
+                                <p class="text-dark">Consent Management</p>
+                            </div>
+                        </a>
+                        <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/"
+                           class="media d-flex align-items-center">
+                            <div class="icon icon-shape bg-gradient-info rounded-circle text-white"></div>
+                            <div class="media-body ml-3">
+                                <!--<h5 class="heading text-primary mb-md-1">Its hard to share health data</h5>-->
+                                <!--<p class="description d-none d-md-inline-block mb-0">Data Privacy regulations make it extremely hard to share data between people who need it</p>-->
+                                <p class="text-dark">Research Marketplace</p>
+                            </div>
+                        </a>
+                        <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/"
+                           class="media d-flex align-items-center">
+                            <div class="icon icon-shape bg-gradient-success rounded-circle text-white"></div>
+                            <div class="media-body ml-3">
+                                <!--<h5 class="heading text-dark mb-md-1">Autoimmune Diseases are an epidemic</h5>-->
+                                <!--<p class="description d-none d-md-inline-block mb-0">Autoimmunity is now one of the most common disease categories, ahead of cancer and heart disease</p>-->
+                                <p class="text-dark">Analytics and Trends</p>
+                            </div>
+                        </a>
+                    </div>
+                </base-dropdown>
+
+
+                <base-dropdown class="nav-item" menu-classes="dropdown-menu-med">
+                    <a slot="title" href="#" class="nav-link" data-toggle="dropdown" role="button">
+                        <i class="ni ni-ui-04 d-lg-none"></i>
+                        <span class="nav-link-inner--text">Learn More</span>
+                    </a>
+                    <div class="dropdown-menu-inner">
+                        <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/"
+                           class="media d-flex align-items-center">
+                            <div class="icon icon-shape bg-gradient-primary rounded-circle text-white"> </div>
+                            <div class="media-body ml-3">
+                                <!--<h6 class="heading text-primary mb-md-1">People have limited access to their own data.</h6>
+                                <p class="description d-none d-md-inline-block mb-0">People have limited access to their own data.</p>-->
+                                <p class="text-dark">For Patients</p>
+                            </div>
+                        </a>
+                        <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/"
+                           class="media d-flex align-items-center">
+                            <div class="icon icon-shape bg-gradient-warning rounded-circle text-white"></div>
+                            <div class="media-body ml-3">
+                                <!--<h5 class="heading text-warning mb-md-1">Health data lives in silos</h5>-->
+                                <!--<p class="description d-none d-md-inline-block mb-0">Health data lives in silos, with little or no integration to other data sources.</p>-->
+                                <p class="text-dark">For Providers</p>
+                            </div>
+                        </a>
+                        <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/"
+                           class="media d-flex align-items-center">
+                            <div class="icon icon-shape bg-gradient-info rounded-circle text-white"></div>
+                            <div class="media-body ml-3">
+                                <!--<h5 class="heading text-primary mb-md-1">Its hard to share health data</h5>-->
+                                <!--<p class="description d-none d-md-inline-block mb-0">Data Privacy regulations make it extremely hard to share data between people who need it</p>-->
+                                <p class="text-dark">For Researchers</p>
+                            </div>
+                        </a>
+                        <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/"
+                           class="media d-flex align-items-center">
+                            <div class="icon icon-shape bg-gradient-success rounded-circle text-white"></div>
+                            <div class="media-body ml-3">
+                                <!--<h5 class="heading text-dark mb-md-1">Autoimmune Diseases are an epidemic</h5>-->
+                                <!--<p class="description d-none d-md-inline-block mb-0">Autoimmunity is now one of the most common disease categories, ahead of cancer and heart disease</p>-->
+                                <p class="text-dark">For Patient Advocates</p>
+                            </div>
+                        </a>
+                    </div>
+                </base-dropdown>
+
+
+
+                <!-- <base-dropdown tag="li" class="nav-item">
                     <a slot="title" href="#" class="nav-link" data-toggle="dropdown" role="button">
                         <i class="ni ni-collection d-lg-none"></i>
                         <span class="nav-link-inner--text">Our Solutions</span>
                     </a>
                     <router-link to="/login" class="dropdown-item">Health Wallet</router-link>
-                    <router-link to="/landing" class="dropdown-item">Consent Management Platform</router-link>
+                    <router-link to="/landing" class="dropdown-item">Consent Management</router-link>
                     <router-link to="/profile" class="dropdown-item">Research Marketplace</router-link>
-                    <router-link to="/register" class="dropdown-item">Data Analytics and Trends</router-link>
+                    <router-link to="/register" class="dropdown-item">Analytics and Trends</router-link>
                 </base-dropdown>
                 <base-dropdown tag="li" class="nav-item">
                     <a slot="title" href="#" class="nav-link" data-toggle="dropdown" role="button">
@@ -121,7 +214,9 @@
                     <router-link to="/profile" class="dropdown-item">Providers</router-link>
                     <router-link to="/login" class="dropdown-item">Researchers</router-link>
                     <router-link to="/register" class="dropdown-item">Patient Advocates</router-link>
-                </base-dropdown>
+                </base-dropdown> -->
+
+
 
             </ul>
             <ul class="navbar-nav align-items-lg-center ml-lg-auto">

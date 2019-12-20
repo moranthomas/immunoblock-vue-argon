@@ -26,13 +26,13 @@
                                          href="https://demos.creative-tim.com/vue-argon-design-system/documentation"
                                          class="mb-3 mb-sm-0"
                                          type="primary">
-                                For Researchers
+                                Researcher Login
                             </base-button>
                             <base-button tag="a"
                                          href="https://www.creative-tim.com/product/vue-argon-design-system"
                                          class="mb-3 mb-sm-0"
                                          type="white">
-                                For Participants
+                                Participant Login
                             </base-button>
                         </div>
                     </div>
