@@ -13,7 +13,7 @@
                 <div class="col-lg-5 mb-5 mb-lg-0">
                     <h1 class="text-white font-weight-light">Introduction for Patients</h1>
                     <p class="lead text-white mt-4">This platform will help match patients with trials.</p>
-                    <a href="https://demos.creative-tim.com/argon-design-system/docs/components/alerts.html"
+                    <a href="#"
                        class="btn btn-white mt-4">Learn More</a>
                 </div>
 

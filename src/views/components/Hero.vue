@@ -23,13 +23,13 @@
                         <p class="lead text-white mt-4 mb-5">Accelerating Patient Outcomes in Immune Research. </p>
                         <div class="btn-wrapper">
                             <base-button tag="a"
-                                         href="https://demos.creative-tim.com/vue-argon-design-system/documentation"
+                                         href="#"
                                          class="mb-3 mb-sm-0"
                                          type="primary">
                                 Researcher Login
                             </base-button>
                             <base-button tag="a"
-                                         href="https://www.creative-tim.com/product/vue-argon-design-system"
+                                         href="#"
                                          class="mb-3 mb-sm-0"
                                          type="white">
                                 Participant Login

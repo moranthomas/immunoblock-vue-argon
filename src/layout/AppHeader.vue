@@ -7,7 +7,7 @@
 
             <div class="row" slot="content-header" slot-scope="{closeMenu}">
                 <div class="col-6 collapse-brand">
-                    <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/">
+                    <a href="#">
                         <img src="img/IMMUNOBLOCK-NO-TEXT.png">
                     </a>
                 </div>
@@ -23,7 +23,7 @@
                         <span class="nav-link-inner--text">About</span>
                     </a>
                     <div class="dropdown-menu-inner">
-                        <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/"
+                        <a href="#"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-primary rounded-circle text-white"> </div>
                             <div class="media-body ml-3">
@@ -31,7 +31,7 @@
                                 <p class="description d-none d-md-inline-block mb-0">ImmunoBlock is the world's first fully secure health data sharing platform</p>
                             </div>
                         </a>
-                        <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/"
+                        <a href="#"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-warning rounded-circle text-white"></div>
                             <div class="media-body ml-3">
@@ -39,7 +39,7 @@
                                 <p class="description d-none d-md-inline-block mb-0">Our state of the art health wallet solution means that your healthcare data is secured and private</p>
                             </div>
                         </a>
-                        <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/"
+                        <a href="#"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-info rounded-circle text-white"></div>
                             <div class="media-body ml-3">
@@ -47,7 +47,7 @@
                                 <p class="description d-none d-md-inline-block mb-0">Using our platform you own your health data and share it only  with who you decide</p>
                             </div>
                         </a>
-                        <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/"
+                        <a href="#"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-success rounded-circle text-white"></div>
                             <div class="media-body ml-3">
@@ -63,7 +63,7 @@
                         <span class="nav-link-inner--text">Problems</span>
                     </a>
                     <div class="dropdown-menu-inner">
-                        <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/"
+                        <a href="#"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-primary rounded-circle text-white"> </div>
                             <div class="media-body ml-3">
@@ -72,7 +72,7 @@
                                 <p class="text-dark">People have limited access to their health data</p>
                             </div>
                         </a>
-                        <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/"
+                        <a href="#"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-warning rounded-circle text-white"></div>
                             <div class="media-body ml-3">
@@ -81,7 +81,7 @@
                                 <p class="text-dark">Health data lives in silos</p>
                             </div>
                         </a>
-                        <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/"
+                        <a href="#"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-info rounded-circle text-white"></div>
                             <div class="media-body ml-3">
@@ -90,7 +90,7 @@
                                 <p class="text-dark">It's hard to share health data</p>
                             </div>
                         </a>
-                        <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/"
+                        <a href="#"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-success rounded-circle text-white"></div>
                             <div class="media-body ml-3">
@@ -108,7 +108,7 @@
                         <span class="nav-link-inner--text">Our Solutions</span>
                     </a>
                     <div class="dropdown-menu-inner">
-                        <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/"
+                        <a href="#"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-primary rounded-circle text-white"> </div>
                             <div class="media-body ml-3">
@@ -117,7 +117,7 @@
                                 <p class="text-dark">Health Wallet</p>
                             </div>
                         </a>
-                        <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/"
+                        <a href="#"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-warning rounded-circle text-white"></div>
                             <div class="media-body ml-3">
@@ -126,7 +126,7 @@
                                 <p class="text-dark">Consent Management</p>
                             </div>
                         </a>
-                        <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/"
+                        <a href="#"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-info rounded-circle text-white"></div>
                             <div class="media-body ml-3">
@@ -135,7 +135,7 @@
                                 <p class="text-dark">Research Marketplace</p>
                             </div>
                         </a>
-                        <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/"
+                        <a href="#"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-success rounded-circle text-white"></div>
                             <div class="media-body ml-3">
@@ -154,7 +154,7 @@
                         <span class="nav-link-inner--text">Learn More</span>
                     </a>
                     <div class="dropdown-menu-inner">
-                        <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/"
+                        <a href="#"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-primary rounded-circle text-white"> </div>
                             <div class="media-body ml-3">
@@ -163,7 +163,7 @@
                                 <p class="text-dark">For Patients</p>
                             </div>
                         </a>
-                        <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/"
+                        <a href="#"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-warning rounded-circle text-white"></div>
                             <div class="media-body ml-3">
@@ -172,7 +172,7 @@
                                 <p class="text-dark">For Providers</p>
                             </div>
                         </a>
-                        <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/"
+                        <a href="#"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-info rounded-circle text-white"></div>
                             <div class="media-body ml-3">
@@ -181,7 +181,7 @@
                                 <p class="text-dark">For Researchers</p>
                             </div>
                         </a>
-                        <a href="https://demos.creative-tim.com/vue-argon-design-system/documentation/"
+                        <a href="#"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-success rounded-circle text-white"></div>
                             <div class="media-body ml-3">
@@ -221,35 +221,35 @@
             </ul>
             <ul class="navbar-nav align-items-lg-center ml-lg-auto">
                 <li class="nav-item">
-                    <a class="nav-link nav-link-icon" href="https://www.facebook.com/creativetim" target="_blank" rel="noopener"
+                    <a class="nav-link nav-link-icon" href="#" target="_blank" rel="noopener"
                        data-toggle="tooltip" title="Like us on Facebook">
                         <i class="fa fa-facebook-square"></i>
                         <span class="nav-link-inner--text d-lg-none">Facebook</span>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link nav-link-icon" href="https://www.instagram.com/creativetimofficial"
+                    <a class="nav-link nav-link-icon" href="#"
                        target="_blank" rel="noopener" data-toggle="tooltip" title="Follow us on Instagram">
                         <i class="fa fa-instagram"></i>
                         <span class="nav-link-inner--text d-lg-none">Instagram</span>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link nav-link-icon" href="https://twitter.com/creativetim" target="_blank" rel="noopener"
+                    <a class="nav-link nav-link-icon" href="#" target="_blank" rel="noopener"
                        data-toggle="tooltip" title="Follow us on Twitter">
                         <i class="fa fa-twitter-square"></i>
                         <span class="nav-link-inner--text d-lg-none">Twitter</span>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link nav-link-icon" href="https://github.com/creativetimofficial/vue-argon-design-system"
+                    <a class="nav-link nav-link-icon" href="#"
                        target="_blank" rel="noopener" data-toggle="tooltip" title="Star us on Github">
                         <i class="fa fa-github"></i>
                         <span class="nav-link-inner--text d-lg-none">Github</span>
                     </a>
                 </li>
                 <li class="nav-item d-none d-lg-block ml-lg-4">
-                    <a href="https://www.creative-tim.com/product/vue-argon-design-system" target="_blank" rel="noopener"
+                    <a href="#" target="_blank" rel="noopener"
                        class="btn btn-neutral btn-icon">
                 <span class="btn-inner--icon">
                   <i class="fa fa-cloud-download mr-2"></i>
