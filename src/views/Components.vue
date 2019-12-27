@@ -1,21 +1,33 @@
 <template>
     <div>
         <hero></hero>
-        <javascript-components></javascript-components>
-        <carousel></carousel>
+        <intro></intro>
+        <hero2></hero2>
+        <security></security>
+        <researchers></researchers>
+        <access></access>
+        <patients></patients>
     </div>
 </template>
 <script>
 import Hero from "./components/Hero";
-import JavascriptComponents from "./components/JavascriptComponents";
-import Carousel from "./components/Carousel";
+import Hero2 from "./components/Hero2";
+import Intro from "./components/Intro";
+import Security from "./components/Security";
+import Researchers from "./components/Researchers";
+import Patients from "./components/Patients";
+import Access from "./components/Access";
 
 export default {
   name: "components",
   components: {
     Hero,
-    JavascriptComponents,
-    Carousel,
+    Intro,
+    Hero2,
+    Security,
+    Researchers,
+    Access,
+    Patients,
   }
 };
 </script>

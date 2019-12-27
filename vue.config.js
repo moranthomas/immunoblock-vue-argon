@@ -14,7 +14,10 @@ module.exports = {
     themeColor: '#172b4d',
     msTileColor: '#172b4d',
     appleMobileWebAppCapable: 'yes',
-    appleMobileWebAppStatusBarStyle: '#172b4d'
+    appleMobileWebAppStatusBarStyle: '#172b4d',
+    iconPaths: {
+      favicon32: 'favicon.png'
+    }
   },
   css: {
     // Enable CSS source maps.

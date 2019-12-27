@@ -5,14 +5,14 @@
                 <div class="col-md-6 mb-5 mb-md-0">
                     <div class="card card-lift--hover shadow border-0">
                         <router-link to="/landing" title="Landing Page">
-                            <img v-lazy="'img/theme/landing.jpg'" class="card-img">
+                            <img v-lazy="'img/setl/version_control.svg'" class="card-img">
                         </router-link>
                     </div>
                 </div>
                 <div class="col-md-6 mb-5 mb-lg-0">
                     <div class="card card-lift--hover shadow border-0">
                         <router-link to="/profile" title="Profile Page">
-                            <img v-lazy="'img/theme/profile.jpg'" class="card-img">
+                            <img v-lazy="'img/setl/workflow.svg'" class="card-img">
                         </router-link>
                     </div>
                 </div>
@@ -21,8 +21,8 @@
         <div class="container">
             <div class="row row-grid align-items-center my-md">
                 <div class="col-lg-6">
-                    <h3 class="text-primary font-weight-light mb-2">Thank you for supporting us!</h3>
-                    <h4 class="mb-0 font-weight-light">Let's get in touch on any of these platforms.</h4>
+                    <h4 class="text-primary font-weight-light mb-2">Thank you for your interest!</h4>
+                    <h5 class="mb-0 font-weight-light">Let's get in touch on any of these platforms.</h5>
                 </div>
                 <div class="col-lg-6 text-lg-center btn-wrapper">
                     <a target="_blank" rel="noopener" href="https://twitter.com/creativetim"
@@ -45,6 +45,7 @@
                        data-original-title="Star on Github">
                         <i class="fa fa-github"></i>
                     </a>
+                         <img src="img/Imblock Trans Logo 1.png" style="width: 150px;">
                 </div>
             </div>
             <hr>
@@ -52,9 +53,9 @@
                 <div class="col-md-6">
                     <div class="copyright">
                         &copy; {{year}}
-                        <a href="https://www.creative-tim.com" target="_blank" rel="noopener">Immunoblock Labs</a>.
                     </div>
                 </div>
+
                 <div class="col-md-6">
                     <ul class="nav nav-footer justify-content-end">
                         <li class="nav-item">
