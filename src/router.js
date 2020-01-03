@@ -7,6 +7,8 @@ import Landing from "./views/Landing.vue";
 import Login from "./views/Login.vue";
 import Register from "./views/Register.vue";
 import Profile from "./views/Profile.vue";
+import Patients from "./views/components/ImmunoComponents/Patients.vue";
+import Problems from "./views/components/ImmunoComponents/Problems.vue";
 
 Vue.use(Router);
 
@@ -55,6 +57,24 @@ export default new Router({
       components: {
         header: AppHeader,
         default: Profile,
+        footer: AppFooter
+      }
+    },
+    {
+      path: "/patients",
+      name: "patients",
+      components: {
+        header: AppHeader,
+        default: Patients,
+        footer: AppFooter
+      }
+    },
+    {
+      path: "/problems",
+      name: "problems",
+      components: {
+        header: AppHeader,
+        default: Problems,
         footer: AppFooter
       }
     }

@@ -24,19 +24,12 @@
     </section>
 </template>
 <script>
-import Tabs from "@/components/Tabs/Tabs.vue";
-import TabPane from "@/components/Tabs/TabPane.vue";
-import IntroImages from "./JavascriptComponents/IntroImages.vue";
-import HippaImages from "./JavascriptComponents/HippaImages.vue";
-import TabsSection from "./JavascriptComponents/TabsSection";
+import IntroImages from "../ImageComponents/IntroImages.vue";
+
 
 export default {
   components: {
-    HippaImages,
     IntroImages,
-    TabPane,
-    Tabs,
-    TabsSection,
   }
 };
 </script>

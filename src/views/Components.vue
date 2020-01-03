@@ -3,20 +3,24 @@
         <hero></hero>
         <intro></intro>
         <hero2></hero2>
-        <security></security>
+        <problems></problems>
         <researchers></researchers>
+        <security></security>
+        <advocates2></advocates2>
         <access></access>
         <patients></patients>
     </div>
 </template>
 <script>
-import Hero from "./components/Hero";
-import Hero2 from "./components/Hero2";
-import Intro from "./components/Intro";
-import Security from "./components/Security";
-import Researchers from "./components/Researchers";
-import Patients from "./components/Patients";
-import Access from "./components/Access";
+import Hero from "./components/ImmunoComponents/Hero";
+import Hero2 from "./components/ImmunoComponents/Hero2";
+import Intro from "./components/ImmunoComponents/Intro";
+import Security from "./components/ImmunoComponents/Security";
+import Researchers from "./components/ImmunoComponents/Researchers";
+import Patients from "./components/ImmunoComponents/Patients";
+import Access from "./components/ImmunoComponents/Access";
+import Problems from "./components/ImmunoComponents/Problems";
+import Advocates2 from "./components/ImmunoComponents/Advocates2";
 
 export default {
   name: "components",
@@ -28,6 +32,8 @@ export default {
     Researchers,
     Access,
     Patients,
+    Problems,
+    Advocates2,
   }
 };
 </script>

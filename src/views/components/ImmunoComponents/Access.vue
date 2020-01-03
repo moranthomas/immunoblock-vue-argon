@@ -29,21 +29,11 @@
     </section>
 </template>
 <script>
-import Tabs from "@/components/Tabs/Tabs.vue";
-import TabPane from "@/components/Tabs/TabPane.vue";
-import IntroImages from "./JavascriptComponents/IntroImages.vue";
-import HippaImages from "./JavascriptComponents/HippaImages.vue";
-import NucypherImages from "./JavascriptComponents/NucypherImages.vue";
-import TabsSection from "./JavascriptComponents/TabsSection";
+import NucypherImages from "../ImageComponents/NucypherImages.vue";
 
 export default {
   components: {
-    HippaImages,
-    IntroImages,
     NucypherImages,
-    TabPane,
-    Tabs,
-    TabsSection,
   }
 };
 </script>

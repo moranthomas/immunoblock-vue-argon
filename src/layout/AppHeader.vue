@@ -63,25 +63,25 @@
                         <span class="nav-link-inner--text">Problems</span>
                     </a>
                     <div class="dropdown-menu-inner">
-                        <a href="#"
+                        <a href="#/problems"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-primary rounded-circle text-white"> </div>
                             <div class="media-body ml-3">
                                 <!--<h6 class="heading text-primary mb-md-1">People have limited access to their own data.</h6>
                                 <p class="description d-none d-md-inline-block mb-0">People have limited access to their own data.</p>-->
-                                <p class="text-dark">People have limited access to their health data</p>
+                                <p class="text-dark">Health data lives in silos</p>
                             </div>
                         </a>
-                        <a href="#"
+                        <a href="#/problems"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-warning rounded-circle text-white"></div>
                             <div class="media-body ml-3">
                                 <!--<h5 class="heading text-warning mb-md-1">Health data lives in silos</h5>-->
                                 <!--<p class="description d-none d-md-inline-block mb-0">Health data lives in silos, with little or no integration to other data sources.</p>-->
-                                <p class="text-dark">Health data lives in silos</p>
+                                <p class="text-dark">People have limited access to health data</p>
                             </div>
                         </a>
-                        <a href="#"
+                        <a href="#/problems"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-info rounded-circle text-white"></div>
                             <div class="media-body ml-3">
@@ -90,7 +90,7 @@
                                 <p class="text-dark">It's hard to share health data</p>
                             </div>
                         </a>
-                        <a href="#"
+                        <a href="#/problems"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-success rounded-circle text-white"></div>
                             <div class="media-body ml-3">
@@ -154,7 +154,7 @@
                         <span class="nav-link-inner--text">Learn More</span>
                     </a>
                     <div class="dropdown-menu-inner">
-                        <a href="#"
+                        <a href="/#/patients"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-primary rounded-circle text-white"> </div>
                             <div class="media-body ml-3">
