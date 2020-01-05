@@ -1,6 +1,6 @@
 <template>
     <header class="header-global">
-        <base-nav class="navbar-main" transparent type="" effect="light" expand>
+        <base-nav-dark class="navbar-main" transparent type="" effect="light" expand>
             <router-link slot="brand" class="navbar-brand mr-lg-5" to="/">
                 <img src="img/IMMUNOBLOCK-NO-TEXT.png" alt="logo">
             </router-link>
@@ -258,7 +258,7 @@
                     </a>
                 </li>
             </ul>
-        </base-nav>
+        </base-nav-dark>
     </header>
 </template>
 <script>
