@@ -1,6 +1,7 @@
 import Vue from "vue";
 import Router from "vue-router";
 import AppHeader from "./layout/AppHeader";
+import AppHeaderDark from "./layout/AppHeaderDark";
 import AppFooter from "./layout/AppFooter";
 import Components from "./views/Components.vue";
 import Landing from "./views/Landing.vue";
@@ -73,7 +74,7 @@ export default new Router({
       path: "/problems",
       name: "problems",
       components: {
-        header: AppHeader,
+        header: AppHeaderDark,
         default: Problems,
         footer: AppFooter
       }
