@@ -14,8 +14,11 @@
 
 
         <div class="container">
-                <h4 class="h5 flex-column flex-md-row  mb-4">A platform for improving outcomes for patients with autoimmune disorders
-                by placing them at the centre of their healthcare data and helping organizations to accelerate research in immune-related chronic diseases.</h4>
+            <blockquote class="blockquote">
+                <p class="lead">"A platform for improving outcomes for patients with autoimmune disorders
+                by placing them at the centre of their healthcare data and helping organizations to accelerate research in immune-related chronic diseases."
+                </p>
+            </blockquote>
         </div>
 
          </br>

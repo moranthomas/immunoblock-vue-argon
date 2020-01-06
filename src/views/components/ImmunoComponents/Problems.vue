@@ -16,7 +16,11 @@
             <li>Unlike cancer, there’s no central database to help researchers understand changes in incidence and prevalence.</li>
           </ul>
 
-            <problem-images></problem-images>
+          <div class="row justify-content-center align-items-center">
+              <div class="col-lg-7 text-center pt-lg">
+                  <img v-lazy="'img/setl/worldwide.svg'" alt="Raised image" style="width: 600px;" class="img-fluid">
+              </div>
+          </div>
 
             </br>
             </br>
@@ -34,6 +38,15 @@
             </br>
             </br>
 
+        <div class="row justify-content-center align-items-center">
+          <div class="col-lg-7 text-center ">
+              <img v-lazy="'img/healthtech-01.png'" alt="Raised image" style="width: 600px;" class="img-fluid">
+          </div>
+        </div>
+
+            </br>
+            </br>
+
 
           <h4 class="h5 flex-column flex-md-row  mb-4">Finding The Right Match</h4>
           <ul>
@@ -43,20 +56,16 @@
             <li>To get access, research companies usually go through intermediaries.</li>
           </ul>
 
-            </br>
-            </br>
-
         </div>
 
 
     </section>
 </template>
 <script>
-import ProblemImages from "../ImageComponents/ProblemImages.vue";
 
 export default {
   components: {
-    ProblemImages,
+
   }
 };
 </script>

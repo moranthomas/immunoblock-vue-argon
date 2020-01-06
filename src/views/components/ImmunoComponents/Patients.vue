@@ -11,8 +11,16 @@
         <div class="container py-0 pb-lg">
             <div class="row justify-content-between align-items-center">
                 <div class="col-lg-5 mb-5 mb-lg-0">
-                    <h1 class="text-white font-weight-light">Introduction for Patients</h1>
-                    <p class="lead text-white mt-4">This platform will help match patients with trials.</p>
+                    <h1 class="text-white font-weight-light">Benefits for Patients</h1>
+                    <p class="lead text-white mt-4">Putting patients in control of their data. </p>
+                    <ul class=" text-white mt-4">
+                        <li>Users can be paid when their data is accessed.</li>
+                        <li>Enhanced education and access to up-to-date information on their conditions.</li>
+                        <li>Decreased need for repeat diagnostics.</li>
+                        <li>Decreased costs and time taken for record retrieval/transportation.</li>
+                        <li>Decreased risk of errors associated with inaccurate or unobtainable medical records.</li>
+                    </ul>
+
                     <a href="#"
                        class="btn btn-white mt-4">Learn More</a>
                 </div>

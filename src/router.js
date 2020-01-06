@@ -10,6 +10,7 @@ import Register from "./views/Register.vue";
 import Profile from "./views/Profile.vue";
 import Patients from "./views/components/ImmunoComponents/Patients.vue";
 import Problems from "./views/components/ImmunoComponents/Problems.vue";
+import Solutions from "./views/components/ImmunoComponents/Solutions.vue";
 
 Vue.use(Router);
 
@@ -76,6 +77,15 @@ export default new Router({
       components: {
         header: AppHeaderDark,
         default: Problems,
+        footer: AppFooter
+      }
+    },
+    {
+      path: "/solutions",
+      name: "solutions",
+      components: {
+        header: AppHeaderDark,
+        default: Solutions,
         footer: AppFooter
       }
     }

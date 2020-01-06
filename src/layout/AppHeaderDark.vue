@@ -108,7 +108,7 @@
                         <span class="nav-link-inner--text">Our Solutions</span>
                     </a>
                     <div class="dropdown-menu-inner">
-                        <a href="#"
+                        <a href="#/solutions"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-primary rounded-circle text-white"> </div>
                             <div class="media-body ml-3">
@@ -117,7 +117,7 @@
                                 <p class="text-dark">Health Wallet</p>
                             </div>
                         </a>
-                        <a href="#"
+                        <a href="#/solutions"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-warning rounded-circle text-white"></div>
                             <div class="media-body ml-3">
@@ -126,7 +126,7 @@
                                 <p class="text-dark">Consent Management</p>
                             </div>
                         </a>
-                        <a href="#"
+                        <a href="#/solutions"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-info rounded-circle text-white"></div>
                             <div class="media-body ml-3">
@@ -135,7 +135,7 @@
                                 <p class="text-dark">Research Marketplace</p>
                             </div>
                         </a>
-                        <a href="#"
+                        <a href="#/solutions"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-success rounded-circle text-white"></div>
                             <div class="media-body ml-3">
