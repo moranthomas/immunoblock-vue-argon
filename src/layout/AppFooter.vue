@@ -26,22 +26,23 @@
                     <h5 class="mb-0 font-weight-light">Let's get in touch on any of these platforms.</h5>
                 </div>
                 <div class="col-lg-6 text-lg-center btn-wrapper">
-                    <a target="_blank" rel="noopener" href=""
-                       class="btn btn-neutral btn-icon-only btn-twitter btn-round btn-lg" data-toggle="tooltip"
-                       data-original-title="Follow us">
+
+                    <a target="_blank" rel="noopener" href="https://twitter.com/BlockImmuno"
+                         data-toggle="tooltip" data-original-title="Follow us"
+                       class="btn btn-neutral btn-icon-only btn-twitter btn-round btn-lg">
                         <i class="fa fa-twitter"></i>
                     </a>
-                    <a target="_blank" rel="noopener" href=""
+                    <a target="_blank" rel="noopener" href="https://medium.com/@immunoblock"
                        class="btn btn-neutral btn-icon-only btn-facebook btn-round btn-lg" data-toggle="tooltip"
-                       data-original-title="Like us">
-                        <i class="fa fa-facebook-square"></i>
+                       data-original-title="Follow us on Medium">
+                        <i class="fa fa-medium"></i>
                     </a>
-                    <a target="_blank" rel="noopener" href="#"
+                    <a target="_blank" rel="noopener" href="https://www.instagram.com/immuno_block/"
                        class="btn btn-neutral btn-icon-only btn-dribbble btn-lg btn-round" data-toggle="tooltip"
-                       data-original-title="Follow us">
-                        <i class="fa fa-dribbble"></i>
+                       data-original-title="Follow us on Instagram">
+                        <i class="fa fa-instagram"></i>
                     </a>
-                    <a target="_blank" rel="noopener" href="#"
+                    <a target="_blank" rel="noopener" href="https://github.com/moranthomas/ImmunoBlock"
                        class="btn btn-neutral btn-icon-only btn-github btn-round btn-lg" data-toggle="tooltip"
                        data-original-title="Star on Github">
                         <i class="fa fa-github"></i>
@@ -64,7 +65,7 @@
                                 Us</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#" class="nav-link" target="_blank" rel="noopener">Blog</a>
+                            <a href="https://medium.com/@immunoblock" class="nav-link" target="_blank" rel="noopener">Blog</a>
                         </li>
                     </ul>
                 </div>

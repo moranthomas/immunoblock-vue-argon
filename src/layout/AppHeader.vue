@@ -221,28 +221,28 @@
             </ul>
             <ul class="navbar-nav align-items-lg-center ml-lg-auto">
                 <li class="nav-item">
-                    <a class="nav-link nav-link-icon" href="#" target="_blank" rel="noopener"
-                       data-toggle="tooltip" title="Like us on Facebook">
-                        <i class="fa fa-facebook-square"></i>
-                        <span class="nav-link-inner--text d-lg-none">Facebook</span>
+                    <a class="nav-link nav-link-icon" href="https://medium.com/@immunoblock" target="_blank" rel="noopener"
+                       data-toggle="tooltip" title="Follow us on Medium">
+                        <i class="fa fa-medium"></i>
+                        <span class="nav-link-inner--text d-lg-none">Medium</span>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link nav-link-icon" href="#"
+                    <a class="nav-link nav-link-icon" href="https://www.instagram.com/immuno_block/"
                        target="_blank" rel="noopener" data-toggle="tooltip" title="Follow us on Instagram">
                         <i class="fa fa-instagram"></i>
                         <span class="nav-link-inner--text d-lg-none">Instagram</span>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link nav-link-icon" href="#" target="_blank" rel="noopener"
+                    <a class="nav-link nav-link-icon" href="https://twitter.com/BlockImmuno" target="_blank" rel="noopener"
                        data-toggle="tooltip" title="Follow us on Twitter">
                         <i class="fa fa-twitter-square"></i>
                         <span class="nav-link-inner--text d-lg-none">Twitter</span>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link nav-link-icon" href="#"
+                    <a class="nav-link nav-link-icon" href="https://github.com/moranthomas/ImmunoBlock"
                        target="_blank" rel="noopener" data-toggle="tooltip" title="Star us on Github">
                         <i class="fa fa-github"></i>
                         <span class="nav-link-inner--text d-lg-none">Github</span>

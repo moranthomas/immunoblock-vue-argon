@@ -18,12 +18,13 @@
 
                 <div class="row justify-content-center align-items-center">
                     <div>
-                        <h1 class="text-white font-weight-light">Introduction For Patient Advocates</h1>
+                        <h1 class="text-white font-weight-light">Benefits For Patient Advocates</h1>
                     </div>
                     <div class="col-lg-7 text-center pt-lg">
 
                         <img src="img/health-problems.png" style="width: 650px;" class="img-fluid">
-                        <p class="lead text-white mt-4 mb-5">Accelerating Patient Outcomes in Immune Research. </br>This platform will help match patients with trials. </p>
+                        <p class="lead text-white mt-4 mb-5">
+                        Allows patient organizations to advertise and reach new patients and conduct funding campaigns directly through the platform as well as giving greater visibility and insights into their patient membership.</p>
                         <div class="btn-wrapper">
                             <base-button tag="a"
                                          href="#"
