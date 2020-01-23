@@ -18,23 +18,23 @@
                     <div class="col-lg-6 order-lg-1">
                         <div class="d-flex px-3">
                             <div>
-                                <icon name="ni ni-building" size="lg" class="bg-gradient-white" color="primary" shadow
+                                <icon name="ni ni-spaceship" size="lg" class="bg-gradient-white" color="primary" shadow
                                       rounded></icon>
                             </div>
                             <div class="pl-4">
                                 <h4 class="display-3 text-white">Our Solutions</h4>
-                                <p class="text-white">The Arctic Ocean freezes every winter.</p>
+                                <p class="text-white"></p>
                             </div>
                         </div>
                         <card shadow class="shadow-lg--hover mt-5">
                             <div class="d-flex px-3">
                                 <div>
-                                    <icon name="ni ni-satisfied" gradient="success" color="white" shadow
+                                    <icon name="ni ni-favourite-28" gradient="success" color="white" shadow
                                           rounded></icon>
                                 </div>
                                 <div class="pl-4">
                                     <h5 class="title text-success">Health Wallet</h5>
-                                    <p>The Arctic Ocean freezes every winter</p>
+                                    <!--<p>The Arctic Ocean freezes every winter</p>-->
                                 </div>
                             </div>
                         </card>
@@ -45,32 +45,32 @@
                                           rounded></icon>
                                 </div>
                                 <div class="pl-4">
-                                    <h5 class="title text-warning">Research Marketplace</h5>
-                                    <p>The Arctic Ocean freezes every winter.</p>
+                                    <h5 class="title text-warning">Consent Management Platform</h5>
+
                                 </div>
                             </div>
                         </card>
                          <card shadow class="shadow-lg--hover mt-5">
                             <div class="d-flex px-3">
                                 <div>
-                                    <icon name="ni ni-satisfied" gradient="success" color="white" shadow
+                                    <icon name="ni ni-atom" gradient="primary" color="white" shadow
                                           rounded></icon>
                                 </div>
                                 <div class="pl-4">
-                                    <h5 class="title text-success">Health Wallet</h5>
-                                    <p>The Arctic Ocean freezes every winter.</p>
+                                     <h5 class="title text-primary">Research Marketplace</h5>
+
                                 </div>
                             </div>
                         </card>
                         <card shadow class="shadow-lg--hover mt-5">
                             <div class="d-flex px-3">
                                 <div>
-                                    <icon name="ni ni-active-40" gradient="warning" color="white" shadow
+                                    <icon name="ni ni-chart-bar-32" gradient="danger" color="white" shadow
                                           rounded></icon>
                                 </div>
                                 <div class="pl-4">
-                                    <h5 class="title text-warning">Research Marketplace</h5>
-                                    <p>The Arctic Ocean freezes every winter.</p>
+                                    <h5 class="title text-danger">Advanced Insights & Analytics</h5>
+
                                 </div>
                             </div>
                         </card>

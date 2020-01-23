@@ -4,7 +4,7 @@
         <intro></intro>
         <hero2></hero2>
         <problems></problems>
-        <hero3></hero3>
+        <solutions-hero></solutions-hero>
         <solutions></solutions>
         <researchers></researchers>
         <security></security>
@@ -16,7 +16,7 @@
 <script>
 import Hero from "./components/ImmunoComponents/Hero";
 import Hero2 from "./components/ImmunoComponents/Hero2";
-import Hero3 from "./components/ImmunoComponents/Hero3";
+import SolutionsHero from "./components/ImmunoComponents/SolutionsHero";
 import Intro from "./components/ImmunoComponents/Intro";
 import Security from "./components/ImmunoComponents/Security";
 import Researchers from "./components/ImmunoComponents/Researchers";
@@ -31,7 +31,7 @@ export default {
   components: {
     Hero,
     Hero2,
-    Hero3,
+    SolutionsHero,
     Intro,
     Security,
     Researchers,
