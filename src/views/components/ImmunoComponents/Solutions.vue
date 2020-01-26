@@ -47,11 +47,20 @@
             <li>It also gives the ability to solicit client participation or provide incentivisation without compromising the individual’s anonymity.</li>
             <li>This allows researchers to target their recruitment efforts specifically to individuals who fit a certain medical history or profile.</li>
             <li>By eliminating the dependency on intermediaries this reduces risk and increases efficacy of trials by tailoring recruitment.</li>
-            <li>The data can be used to provide greater visibility into the incidence and prevalence of specific autoimmune disorders but also into the global trends across all related diseases.</li>
           </ul>
 
             </br>
             </br>
+
+          <h4 class="h5 flex-column flex-md-row  mb-4">4 - Advanced Insights & Analytics </h4>
+          <ul>
+            <li>Researchers and patients  benefit from increased visibility into the incidence and prevalence of specific autoimmune disorders.</li>
+            <li>Access to global trends across all autoimmune related diseases.</li>
+          </ul>
+
+            </br>
+            </br>
+
 
 
 
