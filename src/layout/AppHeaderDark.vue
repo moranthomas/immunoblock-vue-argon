@@ -249,12 +249,9 @@
                     </a>
                 </li>
                 <li class="nav-item d-none d-lg-block ml-lg-4">
-                    <a href="#" target="_blank" rel="noopener"
-                       class="btn btn-neutral btn-icon">
-                <span class="btn-inner--icon">
-                  <i class="fa fa-cloud-download mr-2"></i>
-                </span>
-                        <span class="nav-link-inner--text">Connect</span>
+                    <a href="/register" class="btn btn-neutral btn-icon">
+                        <!--<span class="btn-inner--icon"> <i class="fa spaceship mr-2"></i> </span>-->
+                        <span class="nav-link-inner--text">Register</span>
                     </a>
                 </li>
             </ul>
