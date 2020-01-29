@@ -4,14 +4,14 @@
             <div class="row">
                 <div class="col-md-6 mb-5 mb-md-0">
                     <div class="card card-lift--hover shadow border-0">
-                        <router-link to="/landing" title="Landing Page">
+                        <router-link to="/register" title="Landing Page">
                             <img v-lazy="'img/setl/workflow.svg'" class="card-img" style="height: 424px;">
                         </router-link>
                     </div>
                 </div>
                 <div class="col-md-6 mb-5 mb-lg-0">
                     <div class="card card-lift--hover shadow border-0">
-                        <router-link to="/profile" title="Profile Page">
+                        <router-link to="/register" title="Profile Page">
                             <img v-lazy="'img/patient2.png'" class="card-img">
                         </router-link>
                     </div>
