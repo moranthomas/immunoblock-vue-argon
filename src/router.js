@@ -7,6 +7,7 @@ import Components from "./views/Components.vue";
 import Landing from "./views/Landing.vue";
 import Login from "./views/components/ImmunoComponents//Login.vue";
 import Register from "./views/components/ImmunoComponents/Register.vue";
+import EmailSignUp from "./views/components/ImmunoComponents/EmailSignUp.vue";
 import Profile from "./views/Profile.vue";
 import Patients from "./views/components/ImmunoComponents/Patients.vue";
 import Problems from "./views/components/ImmunoComponents/Problems.vue";
@@ -51,6 +52,15 @@ export default new Router({
       components: {
         header: AppHeader,
         default: Register,
+        footer: AppFooter
+      }
+    },
+    {
+      path: "/emailsignup",
+      name: "emailsignup",
+      components: {
+        header: AppHeader,
+        default: EmailSignUp,
         footer: AppFooter
       }
     },
