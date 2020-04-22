@@ -12,6 +12,7 @@ import Profile from "./views/Profile.vue";
 import Patients from "./views/components/ImmunoComponents/Patients.vue";
 import Problems from "./views/components/ImmunoComponents/Problems.vue";
 import Solutions from "./views/components/ImmunoComponents/Solutions.vue";
+import About from "./views/components/ImmunoComponents/About.vue";
 
 Vue.use(Router);
 
@@ -79,6 +80,15 @@ export default new Router({
       components: {
         header: AppHeader,
         default: Patients,
+        footer: AppFooter
+      }
+    },
+    {
+      path: "/about",
+      name: "about",
+      components: {
+        header: AppHeaderDark,
+        default: About,
         footer: AppFooter
       }
     },

@@ -23,7 +23,7 @@
                         <span class="nav-link-inner--text">About</span>
                     </a>
                     <div class="dropdown-menu-inner">
-                        <a href="#"
+                        <a href="/about"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-primary rounded-circle text-white"> </div>
                             <div class="media-body ml-3">
@@ -31,7 +31,7 @@
                                 <p class="description d-none d-md-inline-block mb-0">ImmunoBlock is the world's first fully secure health data sharing platform</p>
                             </div>
                         </a>
-                        <a href="#"
+                        <a href="/about"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-warning rounded-circle text-white"></div>
                             <div class="media-body ml-3">
@@ -39,7 +39,7 @@
                                 <p class="description d-none d-md-inline-block mb-0">Our state of the art health wallet solution means that your healthcare data is secured and private</p>
                             </div>
                         </a>
-                        <a href="#"
+                       <a href="/about"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-info rounded-circle text-white"></div>
                             <div class="media-body ml-3">
@@ -47,7 +47,7 @@
                                 <p class="description d-none d-md-inline-block mb-0">Using our platform you own your health data and share it only  with who you decide</p>
                             </div>
                         </a>
-                        <a href="#"
+                        <a href="/about"
                            class="media d-flex align-items-center">
                             <div class="icon icon-shape bg-gradient-success rounded-circle text-white"></div>
                             <div class="media-body ml-3">
@@ -249,7 +249,7 @@
                     </a>
                 </li>
                 <li class="nav-item d-none d-lg-block ml-lg-4">
-                    <a href="/register" class="btn btn-neutral btn-icon">
+                    <a href="/emailsignup" class="btn btn-neutral btn-icon">
                         <!--<span class="btn-inner--icon"> <i class="fa spaceship mr-2"></i> </span>-->
                         <span class="nav-link-inner--text">Register</span>
                     </a>
